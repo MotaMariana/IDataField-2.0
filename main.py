@@ -21,7 +21,7 @@ PAGES = {
     'Meta-Data': metadata,
     'Protein Data Uploader' : protein_data_uploader
 }
-#st.write(st.__version__) # Line to check streamlit version mariana
+#st.write(st.__version__) # Line to check streamlit version
 # Check sync
 st.title('IDataField 2.0')
 st.sidebar.image(im, use_column_width=True)
